@@ -4,5 +4,29 @@ Este projeto visa apresentar de forma visual um projeto desenvolvido por meio de
 
 DESENVOLVEDORES: Silvio Ernesto da Silva Binseto, José Eduardo Sarmento Silva
 
+Recursos ultilizados:
+	- Django 4.2.2
+  - Python 3.0
+  - SQlite
+  - HTML/CSS/Bootstrap
+
+Funcionalidades:
+	- CRUD de agricultores interessados
+ 	- CRUD de dados coletados do alimentador
+	- CRUD de dados sobre o alimentador
+
+ Pré-requisitos:
+  - Faça a instalação do Python em seu sistema operacional através de: https://www.python.org/downloads/
+  - Faça a instalação do Django em seu sistema operacional através de: https://www.djangoproject.com/download/
+
 Instruções de Execução:
-  Clone o repositório com o comando git clone 
+  - Clone o repositório com o comando: git clone https://github.com/ErnestoSESB/Intelligent_feeder.git
+  - Instale o ambiente virtual: python -m venv venv .
+  - Rode o ambiente virtual: .\Venv\Scripts\activate
+  - Instale as dependências com o comando: pip install -r requeriments.txt
+  - Crie um superusuario: python manage.py createsuperuser
+  - Rode o servidor com o comando python manage.py runserver
+	- Acesse o sistema em http://localhost:8000
+    
+
+ 
