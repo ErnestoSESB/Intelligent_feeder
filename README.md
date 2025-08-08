@@ -2,7 +2,7 @@
 Este projeto visa apresentar de forma visual um projeto desenvolvido por meio de código livre - a implementação de um sistema de alimentação automático para animais. Este software foi desenvolvido em C++ e faz a utilização de um sonar, um servo-motor e outros periféricos, já a linguagem utilizada na parte web é python.  
 
 
-DESENVOLVEDORES: Silvio Ernesto da Silva Binseto, José Eduardo Sarmento Silva
+DESENVOLVEDORES: Silvio Ernesto da Silva Bisneto, José Eduardo Sarmento Silva
 
 Recursos ultilizados:
 	- Django 4.2.2
