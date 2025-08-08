@@ -11,7 +11,7 @@ DESENVOLVEDORES: Silvio Ernesto da Silva Bisneto, José Eduardo Sarmento Silva
 
 Recursos ultilizados:
 
-   - Django 4.2.2
+  - Django 4.2.2
 
 
   - Python 3.0
@@ -32,7 +32,7 @@ Funcionalidades:
     - CRUD de agricultores interessados
 
 
-     - CRUD de dados coletados do alimentador
+    - CRUD de dados coletados do alimentador
 
 
     - CRUD de dados sobre o alimentador
