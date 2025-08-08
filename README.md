@@ -5,7 +5,7 @@ Este projeto visa apresentar de forma visual um projeto desenvolvido por meio de
 DESENVOLVEDORES: Silvio Ernesto da Silva Bisneto, José Eduardo Sarmento Silva
 
 Recursos ultilizados:
-	- Django 4.2.2
+  - Django 4.2.2
   - Python 3.0
   - SQlite
   - HTML/CSS/Bootstrap
